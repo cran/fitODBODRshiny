@@ -38,6 +38,7 @@
 #' }
 #'
 #' @examples
-#' All_Plots$Bin_Plot[[1]]
+#' length(All_Plots$Bin_Plots) # No of plots in the list for all 7 datasets
+#' length(All_Plots$All_Data) # 7 datasets
 #'
 "All_Plots"

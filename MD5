@@ -1,7 +1,7 @@
-7773834b860a6b1ea5943e613a315eaf *DESCRIPTION
+74d89ed7a188086ab523145ad4dcd23b *DESCRIPTION
 f80f4da0a25d8925eb32729bb9ea5305 *LICENSE
 fb2213d9d16b0afa8b9934e4adca52bd *NAMESPACE
-a16ff6284d6815f5c18861027ff7fbac *R/All_Plots.R
+0dfc11c70af6fad9057c289fb8a213b2 *R/All_Plots.R
 12f682e8dcd464338753feb044ef96d4 *R/app_config.R
 6c5dcd14ee11dc0c0dfc2cb0a60f7040 *R/app_server.R
 144a712c608dd529fd2596e62f817c6e *R/app_ui.R
@@ -11,6 +11,6 @@ a16ff6284d6815f5c18861027ff7fbac *R/All_Plots.R
 81560d1b906a530c87fa0acbb2f5cca4 *inst/app/www/favicon.ico
 d63ebff8186829f8514aadd7908fe45f *inst/app/www/favicon.png
 1d98053fa8a99dfbd7985e6777efa502 *inst/golem-config.yml
-baa973ecb20118802fb833530a12b3e5 *man/All_Plots.Rd
+fb417fd53e73850895bd42fc4906a6f0 *man/All_Plots.Rd
 d63ebff8186829f8514aadd7908fe45f *man/figures/logo.png
 49975c35031ebe15b952621eb9148f49 *man/run_app.Rd
